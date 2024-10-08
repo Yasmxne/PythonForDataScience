@@ -1,5 +1,4 @@
-# PythonForDataScience :cat:
-:koala:
+# PythonForDataScience :cat: :koala:
 Ceci est un dépôt de test
 
 Le Chêne un jour dit au roseau :
